@@ -192,7 +192,7 @@
     "nanoid": "^5.1.9",
     "ol": "^10.9.0",
     "pretty-ms": "^9.3.0",
-    "query-string": "9.3.1",
+    "query-string": "9.5.1",
     "re-resizable": "^6.11.2",
     "react": "^17.0.2",
     "react-arborist": "^3.5.0",
